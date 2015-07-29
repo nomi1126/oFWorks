@@ -1,0 +1,4 @@
+ofxKinect
+ofxOpenCv
+ofxBox2d
+ofxTriangleExport
